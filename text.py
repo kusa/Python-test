@@ -11,9 +11,11 @@ while True:
         except ValueError as err:
             print(err)
             continue
+        except EOFError:
+            break
         soucet += number
     else:
         break
     
 print("Celkovy soucet: ", soucet)
-        s
+ 

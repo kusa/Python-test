@@ -3,10 +3,8 @@ list = [1, 2, 3, 4]
 v, *k = list
 print(k)
 
-x=12379
+x="truse"
 
-f=1234
+u = "ANO" if x=="true" else "NE"
 
-aa=1234
-
-ass
+print(u)
