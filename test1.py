@@ -5,7 +5,7 @@ s = [25, 45, 8, 12, 458, 453, 8]
 
 listx = [y for y in s if y>40]
 
-print(listx, 'TEST444')
+print(listx, 'TEST777')
 
 
 if 1 == 2:
