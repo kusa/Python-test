@@ -19,20 +19,22 @@ import collections
 user = collections.namedtuple('user' , 'name passw gender')
 
 co = user('Jan',1234,'male')
-print(co.name)
+print(co._asdict())
 
 se = [1,2,3,4,5]
-print(se[-1:])
-print(se.pop(1))
-print(se)
+
 
 jm = 'Moje jmeno je Ondra Tyrychtr'
 
 a, *b, c = jm.split()
-print(b)
+
 
 
 he = [1,2,3,4,5]
 
 for i in range(len(he)):
     print(he[i])
+    
+leps = [z for z in range(10,20) if z % 2 == 0]
+
+print(leps)
