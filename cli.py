@@ -8,7 +8,7 @@ a = ['aa', 'cc', 'bb']
 a.reverse()
 print(a)
 
-b = {a:1,b:2,c:4}
+b = {a:1}
 
 dict = dict(jmeno='Radim', bydliste="Nachod")
 print(sorted(dict))
