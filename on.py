@@ -1,4 +1,4 @@
-#! /usr/bin/enc python3
+#!/usr/bin/python3
 
 n = ("ahoj", 2, 45 , "pes", 84, "ahoj")
 print(n.index("ahoj"))
