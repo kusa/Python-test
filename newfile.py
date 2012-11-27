@@ -10,5 +10,10 @@ del dict['Prijmeni']
 for key,val in dict.items():
     print(key, ' - ', val)
     
-for vl in jm
+for vl in jm:
     print(vl)
+    
+def jmeno ():
+    try:
+        
+    throw v as TypeError
