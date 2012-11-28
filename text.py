@@ -3,7 +3,9 @@
 import collections 
 import test1
 
-a=15
+
+a=1555
+
 dict = {'jmeno':'Ondra', 'Prijmeni': 'Borec', 'Age': 23}
 
 del dict['Prijmeni']
