@@ -1,6 +1,6 @@
 #!/usr/bin/python3.2
 
-
+asdasdas
 import test1
 
 a=1
