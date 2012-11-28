@@ -3,7 +3,7 @@
 import collectissaons 
 import test1
 
-a=1
+a=1555
 dict = {'jmeno':'Ondra', 'Prijmeni': 'Borec', 'Age': 23}
 
 del dict['Prijmeni']
