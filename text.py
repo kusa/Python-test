@@ -1,6 +1,6 @@
 #!/usr/bin/python3.2
 
-
+import collections 
 import test1
 
 a=1
